@@ -15,8 +15,8 @@ These projects focus on analyzing sales and financial data to derive actionable 
 ## 1.  ATLIQ Sales Report  
 
 **Objectives:**  
-- Create customer performance reports [View Report]([https://github.com/sowmisow25](https://github.com/sowmisow25/Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf))
-- Compare market performance with sales targets  
+- Create customer performance reports [View Report](https://github.com/sowmisow25/Sales-Analytics/blob/main/Customer%20Sales%20Performance%20Report.pdf)
+- Compare market performance with sales targets [View Report](https://github.com/sowmisow25/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) 
 - Identify sales patterns and KPIs  
 
 **Outcomes:**  
@@ -27,8 +27,8 @@ These projects focus on analyzing sales and financial data to derive actionable 
 ## 2.  ATLIQ Finance Report  
 
 **Objectives:**  
-- Create Profit & Loss (P&L) reports by fiscal year, months, and markets  
-- Evaluate financial performance  
+- Create Profit & Loss (P&L) reports by fiscal year, months, and markets [View Report](https://github.com/sowmisow25/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf), [View Report](https://github.com/sowmisow25/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Markets.pdf), [View Report](https://github.com/sowmisow25/Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)
+- Evaluate financial performance   
 - Facilitate stakeholder communication  
 
 **Outcomes:**  
