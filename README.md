@@ -45,3 +45,8 @@ These projects focus on analyzing sales and financial data to derive actionable 
 - Efficient report generation with VBA  
 - ETL Methodology: Extract, Transform, Load data into models  
 - Create visually appealing and intuitive reports  
+
+Project Link : [link](https://www.linkedin.com/feed/update/urn:li:activity:7291198137161895938/) 
+
+### Stay Connected  
+Follow me on [LinkedIn](https://www.linkedin.com/in/sowmya-sreenivasan/) to see more of my projects and learning journey.
