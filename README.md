@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sales Analytics Project  
+# Sales & Finance Analytics  
 
 </div>
 
